@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayName</key>
+	<string>货嘀</string>
+	<key>buildVersion</key>
+	<string>2.2.1.1</string>
+	<key>hsweixin</key>
+	<string>wxc50380b2ff55c783</string>
+	<key>com.weibo</key>
+	<string>wb568898243</string>
+	<key>hsqq</key>
+	<string>wb568898243</string>
+	<key>version</key>
+	<string>2.2.1</string>
+	<key>appid</key>
+	<string>com.transfar.driver</string>
+	<key>hsalipay</key>
+	<string>com.transfar.driver</string>
+</dict>
+</plist>
